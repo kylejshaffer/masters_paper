@@ -1,0 +1,7 @@
+Train - test pairs constructed
+Models loaded
+data loaded
+(378,)
+Training set scaled
+(42,)
+Test set scaled
